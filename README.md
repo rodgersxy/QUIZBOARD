@@ -19,4 +19,4 @@ project.
 ### License
 MIT
 GPL
-Copyright (c) {year} 
+Copyright (c) 2019
