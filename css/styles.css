@@ -1,13 +1,4 @@
-#answer {
-  border: 2px dashed #000000;
-  background: #ffffff;
-  padding: 10px;
-  border-radius: 10px;
-  opacity: 0.4;
-}
-#club {
-color: #fff;
-}
+
 .jumbotron {
  border-radius: 25px;
 }
@@ -15,7 +6,9 @@ color: #fff;
 }
 #submit {
   background: #fff;
-  border-radius: 10px;
+  border-radius: 20px;
 
 }
-@media screen and (min-width: 480px)
+@media screen and (min-width: 480px) {
+
+}
