@@ -6,15 +6,9 @@ after submission , Feb 24,2019.
 This is online test for the Javascript class,by use the radio button student are table
 to pick appropriate answer and answer the questions. Then click on the submit button
 in which instant result will be displayed.
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+## Bugs
+I am currently trying to debug an issue. This happens when you fail to check all the
+questions,then when you submit you get a NaN.
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
