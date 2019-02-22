@@ -10,7 +10,9 @@ in which instant result will be displayed.
 I am currently trying to debug an issue. This happens when you fail to check all the
 questions,then when you submit you get a NaN.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+html
+css
+JS. Then addition gif to make the page exciting
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
