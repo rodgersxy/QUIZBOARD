@@ -17,5 +17,6 @@ JS. Then addition gif to make the page exciting
 comments and corrections will be of great help. Or other ideas on how i would have handled the
 project.
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+MIT
+GPL
+Copyright (c) {year} 
