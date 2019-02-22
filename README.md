@@ -1,9 +1,11 @@
 # QUIZ-BOARD APPLICATION.
 #### This application is for running online test and get instant answer
 after submission , Feb 24,2019.
-#### By **{List of contributors}**
+#### By **Rodgers Nyakundi**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is online test for the Javascript class,by use the radio button student are table
+to pick appropriate answer and answer the questions. Then click on the submit button
+in which instant result will be displayed.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
