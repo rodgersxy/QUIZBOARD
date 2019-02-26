@@ -12,6 +12,16 @@ $(document).ready(function(){
         var q10 = parseInt($("input[name='q10']:checked").val());
         var total = q1 + q2 + q3 + q4 + q5 + q6 + q7 + q8 + q9 + q10;
         document.getElementById('output').innerHTML="you have scored " + total;
+
+        if(total >= 80) {
+            document.getElementById('grade').innerHTML="EXCELLENT ";
+        }
+        else if(total >=50 && total < 80) {
+            document.getElementById('grade').innerHTML="FAIR";
+        }
+        else {
+          document.getElementById('grade').innerHTML="POOR";
+        }
     });
 
 });
